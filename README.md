@@ -38,3 +38,8 @@ This structure:
 2. Highlights key technical challenges
 3. Defines specific constraints
 4. Keeps focus on both learning outcomes and technical implementation
+
+## Structure
+
+https://github.com/chroma-core/chroma
+
